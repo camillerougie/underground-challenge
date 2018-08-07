@@ -41,8 +41,7 @@ https://en.wikipedia.org/wiki/List_of_Docklands_Light_Railway_stations
 
     GET /station/{station-name}
     GET /station/{station-name}/interchanges
-    GET /line/{line-name}
-    GET /line/list-stations
+    GET /line/{line-name}/list-stations
     GET /route/{start-station-name}/{destination-station-name}
 
 *Stretch Goal 1* - Create a simple natural language user interface which uses the API, and presents the results nicely on screen. This can be as simple as a Google-style text field, bonus points for usability.
