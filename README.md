@@ -3,11 +3,9 @@
 
 We're delighted you're interviewing with Plural, and can't wait to meet you! Just to recap, our technical interview process consists of the following stages:
 
- * an initial phone call, congratulations, you aced that
- * this - a short take home project
- * an on-site pairing exercise, which usually extends the project
- * a presentation where you show off something you're really proud of building
- * a chance to socialise with the team and get to know us
+1. An initial phone call, congratulations, you aced that
+2. This - a short take home project (you have a week to complete it from our initial email, but it shouldn't take more than one or two evenings)
+3. An on-site interview (about half a day), which consists in a pairing exercise (which usually extends the project), and a final interview going deeper into your background and past projects. We then wrap up with a social with the team so you can get to know us on a personal level.
 
 The goal of this project is to see how you tackle a novel challenge, how you design and implement a solution. There's no right answers, we're interested in how you think, how you work pragmatically and prioritise when there's lots to do. You may also have to pick up some new skills. It will also give us a starting point for the pair programming exercise we'll do when we invite you to our office.
 
@@ -72,3 +70,7 @@ https://en.wikipedia.org/wiki/List_of_Docklands_Light_Railway_stations
 * Unit tests, yes.
 
 * When you're ready to submit your work, just let us know on Slack, and we'll send instructions.
+
+--- 
+
+Enjoy the challenge, we look forward to seeing what you build!
