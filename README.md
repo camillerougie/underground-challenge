@@ -69,7 +69,7 @@ https://en.wikipedia.org/wiki/List_of_Docklands_Light_Railway_stations
 
 * Unit tests, yes.
 
-* When you're ready to submit your work, just let us know on Slack, and we'll send instructions.
+* When you're ready to submit your work, zip up your code and add some brief instructions on how to run it, and post it to our private Slack channel. Let us know how we can access any APIs and user interfaces you've built too. In the meantime, feel free to use the channel to ask any questions.
 
 --- 
 
